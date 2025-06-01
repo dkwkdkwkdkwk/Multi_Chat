@@ -10,10 +10,10 @@
 ### ✅ 클라이언트 화면
 
 #### 💬 클라이언트 간 채팅
-<img src="./images/client_chat.png" width="600"/>
-
-<img src="./images/client_send.png" width="600"/>
-
+<p align="center">
+  <img src="./images/client_chat.png" width="45%"/>
+  <img src="./images/client_send.png" width="45%"/>
+</p>
 ---
 
 ### ✅ 서버 화면
